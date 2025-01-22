@@ -45,9 +45,9 @@ source_suffix = ['.rst','.md']
 master_doc = 'contents'
 
 # General information about the project.
-project = u'landing-test'
-copyright = u'2018, Mark Meyer'
-author = u'Mark Meyer'
+project = u'landing-demo'
+copyright = u'2025, Mark Shophia'
+author = u'Mark Shophia'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
